@@ -12,7 +12,7 @@ T: tomato soup, 20rs
 
 I : idli , 20rs
 
-V : vada, 25rs.
+V : vada, 25rs
 
 B: bhature &chhole, 30rs
 
@@ -20,13 +20,13 @@ P: paneer pakoda, 30rs
 
 M: manchurian, 90rs
 
-H: hakka noodle, 70rs.
+H: hakka noodle, 70rs
 
 F: French fries, 30rs
 
 J: jalebi, 30rs
 
-L; lemonade, 15rs
+L: lemonade, 15rs
 
 S: spring roll, 20rs
 
